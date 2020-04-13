@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Hiveswap Alternian';
-    src: url('HiveswapAlternian-Regular.woff2') format('woff2'),
-        url('HiveswapAlternian-Regular.woff') format('woff');
+    src: url(https://github.com/Yugi31/Abyss-tsa/blob/master/HiveswapAlternian-Regular.woff2?raw=true) format('woff2'),
+        url(https://github.com/Yugi31/Abyss-tsa/blob/master/HiveswapAlternian-Regular.woff?raw=true) format('woff');
     font-weight: normal;
     font-style: normal;
 }
