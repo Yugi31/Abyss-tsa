@@ -2,7 +2,7 @@
 @font-face {
   font-family: "HiveswapAlternian-Regular";
 
-  src: url("./fonts/hiveswapalternianfontbyorangeypeelsdbnnyid.svg") format("svg"); /* Legacy iOS */
+  src: url(https://raw.githubusercontent.com/Yugi31/Abyss-tsa/master/hiveswapalternianfontbyorangeypeelsdbnnyid.svg) format("svg"); /* Legacy iOS */
   font-weight: normal;
   font-style: normal;
 }
